@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter, Firebase, Rest Apis, Databases and other Backend services**
 
-- 📫 How to reach me **https://www.linkedin.com/in/archisman-mandal-282150212/**
+- 📫 How to reach me **https://www.linkedin.com/in/archisman-mandal/**
 
 - ⚡ Fun fact **I am quite into History, Geopolitics, IR and current affairs**
 
