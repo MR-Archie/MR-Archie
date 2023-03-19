@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/an_archie14" target="blank"><img src="https://img.shields.io/twitter/follow/an_archie14?logo=twitter&style=for-the-badge" alt="an_archie14" /></a> </p>
 
-- 🔭 I’m currently working on **a project named Linguify**
+- 🔭 I’m currently working on **flutter, firebase and other third party packages** 
 
 - 👯 I’m looking to collaborate on **projects related to android app development using Flutter and backend services offered by Firebase and also using databases such as MongoDB or Hive**
 
