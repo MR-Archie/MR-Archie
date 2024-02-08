@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/archisman-mandal/**
 
-- ⚡ Fun fact **I am quite into History, Geopolitics, IR and current affairs**
+- ⚡ Fun fact **I am an Otaku(a person quite into anime and manga)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
