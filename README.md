@@ -9,12 +9,48 @@
 
 <p align="left"> <a href="https://twitter.com/an_archie14" target="blank"><img src="https://img.shields.io/twitter/follow/an_archie14?logo=twitter&style=for-the-badge" alt="an_archie14" /></a> </p>
 
-- 🔭 I’m currently working on **flutter, firebase and other third party packages** 
+💼 **Programmer Analyst Trainee at CTS | Java Backend Developer | Microservices | Spring Boot | React**
 
-- 👯 I’m looking to collaborate on **projects related to android app development using Flutter and backend services offered by Firebase and also using databases such as MongoDB or Hive**
+I am a Software Developer currently working as a Programmer Analyst Trainee at Cognizant, with a strong foundation in backend development, microservices architecture, and secure API design. I hold a B.Tech in Information Technology from RCC Institute of Information Technology and I’m passionate about building high-performance and scalable software solutions.
 
-- 💬 Ask me about **Flutter, Firebase, Rest Apis, Databases and other Backend services**
+💻 Technical Expertise
+**⪢⪢ Backend Development:**
 
+• Java, Spring Boot (JPA, MVC, REST), Microservices
+
+• API communication using Feign Client
+
+• Service Discovery with Eureka
+
+• DTO mapping, layered architecture
+
+**⪢⪢ Security & Authentication:**
+
+• Spring Security
+
+• JWT-based authentication and authorization
+
+• Role-based access control (RBAC)
+
+**⪢⪢ Frontend Development:**
+
+• React.js (Vite), JavaScript (ES6+), Bootstrap
+
+• Responsive UI building & API integration
+
+**⪢⪢ Databases & Cloud:**
+
+• MySQL, MariaDB, MongoDB
+
+• Firebase Authentication & Firestore
+
+• Database schema design and optimization
+
+**⪢⪢ Testing & Dev Tools:**
+
+• JUnit 5, Mockito (Unit Testing)
+
+• Git, Maven, Postman, IntelliJ IDEA, VS Code
 - 📫 How to reach me **https://www.linkedin.com/in/archisman-mandal/**
 
 - ⚡ Fun fact **I am an Otaku(a person quite into anime and manga)**
