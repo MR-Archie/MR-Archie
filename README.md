@@ -1,7 +1,7 @@
 ![logo](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 
 <h1 align="center">Hi 👋, I'm Archisman Mandal</h1>
-<h3 align="center">A passionate Flutter developer from Kolkata,India</h3>
+<h3 align="center">Programmer Analyst Trainee at CTS - Kolkata,India</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/an_archie14" target="blank"><img src="https://img.shields.io/twitter/follow/an_archie14?logo=twitter&style=for-the-badge" alt="an_archie14" /></a> </p>
 
-💼 **Programmer Analyst Trainee at CTS | Java Backend Developer | Microservices | Spring Boot | React**
+💼 **Programmer Analyst Trainee at CTS || Java Backend Developer || Microservices || Spring Boot || React**
 
 I am a Software Developer currently working as a Programmer Analyst Trainee at Cognizant, with a strong foundation in backend development, microservices architecture, and secure API design. I hold a B.Tech in Information Technology from RCC Institute of Information Technology and I’m passionate about building high-performance and scalable software solutions.
 
